@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b69e7b08bad37f44",
+        "id": "8c6b48915f2b6037",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a0ae2aa0dbde42",
+            "id": "8fb30a74e358aa67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.  Challenges in ML.md",
+                "file": "algorithms/Simple Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.  Challenges in ML"
+              "title": "Simple Linear Regression"
             }
           }
         ]
@@ -183,26 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1a0ae2aa0dbde42",
+  "active": "8fb30a74e358aa67",
   "lastOpenFiles": [
-    "8.  On the basis of Types of Learning OR Working Style.md",
-    "7.  On the basis of Incremental Learning while deployed.md",
+    "algorithms/Supervised Learning Techniques.md",
+    "basics and types/0. Machine Learning Terms.md",
+    "basics and types/7.  On the basis of Incremental Learning while deployed.md",
+    "basics and types/8.  On the basis of Types of Learning OR Working Style.md",
+    "algorithms/Simple Linear Regression.md",
+    "basics and types/6. Reinforcement Learning.md",
+    "basics and types/5. Self-Supervised Machine Learning.md",
+    "basics and types/4. Semi-Supervised Machine Learning.md",
+    "basics and types/3. Unsupervised Machine Learning.md",
+    "basics and types/2. Supervised Machine Learning.md",
+    "basics and types/1. Types of Machine Learning.md",
     "book.pdf",
-    "9.  Challenges in ML.md",
+    "algorithms",
+    "basics and types/9.  Challenges in ML.md",
+    "basics and types",
     "images/Pasted image 20260127170249.png",
-    "1. Types of Machine Learning.md",
     "8. On the basis of Types of Learning OR Working Style.md",
-    "0. Machine Learning Terms.md",
     "7. On the basis of Deployment.md",
     "images/Pasted image 20260127170336.png",
     "images",
-    "4. Semi-Supervised Machine Learning.md",
-    "5. Self-Supervised Machine Learning.md",
-    "3. Unsupervised Machine Learning.md",
-    "2. Supervised Machine Learning.md",
     "Transfer Learning.md",
-    "6. Reinforcement Learning.md",
-    "Deep Learning vs Machine Learning.md",
+    "basics and types/Deep Learning vs Machine Learning.md",
     "Supervised Machine Learning.md",
     "Machine Learning with Scikit-Learn, Keras, & TensorFlow 3rd Ed.pdf",
     "Welcome.md"
