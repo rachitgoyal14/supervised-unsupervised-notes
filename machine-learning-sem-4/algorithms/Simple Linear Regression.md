@@ -506,5 +506,5 @@ From **"Pattern Recognition and Machine Learning" by Christopher Bishop**:
 5. **More features ≠ Better model** – beware of overfitting and multicollinearity
 6. **Start simple** (linear) and increase complexity only if needed
 
----
+
 
