@@ -95,18 +95,14 @@
             "id": "e99d15f4b5f30a2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms/Multiple Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Multiple Linear Regression"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -268,12 +264,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "200005a66cd9dae9",
+  "active": "e99d15f4b5f30a2c",
   "lastOpenFiles": [
+    "algorithms/2. Multiple Linear Regression.md",
     "algorithms/Errors",
     "algorithms/Errors/R² Score (Coefficient of Determination).md",
     "algorithms/1. Simple Linear Regression.md",
-    "algorithms/2. Multiple Linear Regression.md",
     "algorithms/Errors/Mean Square Error.md",
     "algorithms/Errors/Mean Absolute Error.md",
     "algorithms/0. Supervised Learning Techniques.md",
