@@ -169,7 +169,7 @@ Adjusted R² = 1 - [(1 - R²)(n - 1) / (n - k - 1)]
 Where:
 - **R²** = regular R² score
 - **n** = number of rows (samples)
-- **k** = number of features (independent variables/input columns)
+- **k** = number of independent features (independent variables/input columns)
 
 ---
 
