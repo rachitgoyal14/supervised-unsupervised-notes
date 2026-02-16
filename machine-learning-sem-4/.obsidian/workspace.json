@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ab9b686b2367be",
+        "id": "33238c130309390d",
         "type": "tabs",
         "children": [
           {
-            "id": "72ad2bf5bb485ad9",
+            "id": "89826c3570f7878f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06. Advanced Regression/02. Polynomial Regression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02. Polynomial Regression"
             }
           }
         ]
@@ -179,8 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "72ad2bf5bb485ad9",
+  "active": "89826c3570f7878f",
   "lastOpenFiles": [
+    "03. Linear Regression Basics/02. Simple Linear Regression.md",
+    "03. Linear Regression Basics/05. Best Line Math.md",
+    "03. Linear Regression Basics/04. Best Line Metrics.md",
+    "05. Gradient Descent/05. Stochastic Gradient Descent.md",
+    "05. Gradient Descent/04. Batch Gradient Descent.md",
+    "05. Gradient Descent/03. Gradient Descent Introduction.md",
+    "05. Gradient Descent/02. Closed Form vs Gradient Descent.md",
+    "05. Gradient Descent/01. Model Parameters.md",
+    "04. Loss Functions/06. Assumptions of Linear Regression.md",
+    "04. Loss Functions/05. Square Function.md",
+    "04. Loss Functions/04. Mean Absolute Error.md",
+    "04. Loss Functions/03. Root Mean Squared Error.md",
+    "04. Loss Functions/01. Loss Functions Concept.md",
     "99. Additional Topics/07. R² Score.md",
     "05. Gradient Descent (Lect 13-14)/02. Closed Form vs Gradient Descent.md",
     "04. Loss Functions (Lect 10-12)/04. Mean Absolute Error.md",
@@ -194,19 +211,6 @@
     "99. Additional Topics/06. Deep Learning vs ML.md",
     "99. Additional Topics/05. Challenges in ML.md",
     "99. Additional Topics/04. Learning Styles.md",
-    "99. Additional Topics/03. Incremental Learning.md",
-    "99. Additional Topics/02. Reinforcement Learning.md",
-    "99. Additional Topics/01. Self-Supervised Learning.md",
-    "01. Fundamentals (Lect 1-3)/05. Semi-Supervised Learning.md",
-    "01. Fundamentals (Lect 1-3)/04. Unsupervised Learning.md",
-    "01. Fundamentals (Lect 1-3)/03. Supervised Learning.md",
-    "01. Fundamentals (Lect 1-3)/02. Types of Machine Learning.md",
-    "01. Fundamentals (Lect 1-3)/01. Machine Learning Terms.md",
-    "02. Python Prerequisites (Lect 4-7)/README.md",
-    "18. Advanced Algorithms (Lect 56-60)/04. Random Forest.md",
-    "18. Advanced Algorithms (Lect 56-60)/03. Decision Trees.md",
-    "18. Advanced Algorithms (Lect 56-60)/02. SVM.md",
-    "18. Advanced Algorithms (Lect 56-60)/01. KNN Advanced.md",
     "99. Additional Topics",
     "18. Advanced Algorithms (Lect 56-60)",
     "17. Clustering (Lect 55-56)",
