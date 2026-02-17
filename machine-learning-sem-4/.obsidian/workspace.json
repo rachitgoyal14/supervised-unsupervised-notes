@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Advanced Regression/02. Polynomial Regression.md",
+                "file": "08. Logistic Regression/04. Loss Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Polynomial Regression"
+              "title": "04. Loss Function"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "89826c3570f7878f",
   "lastOpenFiles": [
+    "08. Logistic Regression/03. Sigmoid Function.md",
+    "08. Logistic Regression/04. Loss Function.md",
+    "08. Logistic Regression/01. Logistic Regression.md",
+    "08. Logistic Regression/02. Step Function.md",
+    "06. Advanced Regression/02. Polynomial Regression.md",
     "03. Linear Regression Basics/02. Simple Linear Regression.md",
     "03. Linear Regression Basics/05. Best Line Math.md",
     "03. Linear Regression Basics/04. Best Line Metrics.md",
@@ -206,11 +211,6 @@
     "algorithms/3. Model Paramters.md",
     "05. Gradient Descent (Lect 13-14)/03. Gradient Descent Introduction.md",
     "05. Gradient Descent (Lect 13-14)/01. Model Parameters.md",
-    "06. Advanced Regression (Lect 15-17)/01. Multiple Linear Regression.md",
-    "03. Linear Regression Basics (Lect 8-9)/02. Simple Linear Regression.md",
-    "99. Additional Topics/06. Deep Learning vs ML.md",
-    "99. Additional Topics/05. Challenges in ML.md",
-    "99. Additional Topics/04. Learning Styles.md",
     "99. Additional Topics",
     "18. Advanced Algorithms (Lect 56-60)",
     "17. Clustering (Lect 55-56)",
