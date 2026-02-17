@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33238c130309390d",
+        "id": "3f64632f057fd5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "89826c3570f7878f",
+            "id": "033f75ec52d0418c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Advanced Regression/02. Polynomial Regression.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02. Polynomial Regression"
+              "title": "New tab"
             }
           }
         ]
@@ -183,14 +179,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "89826c3570f7878f",
+  "active": "033f75ec52d0418c",
   "lastOpenFiles": [
-    "08. Logistic Regression/04. Loss Function.md",
-    "08. Logistic Regression/03. Sigmoid Function.md",
-    "08. Logistic Regression/01. Logistic Regression.md",
-    "08. Logistic Regression/02. Step Function.md",
-    "06. Advanced Regression/02. Polynomial Regression.md",
+    "06. Advanced Regression/01. Multiple Linear Regression.md",
     "03. Linear Regression Basics/02. Simple Linear Regression.md",
+    "00. Index.md",
+    "08. Logistic Regression/03. Sigmoid Function.md",
+    "08. Logistic Regression/02. Step Function.md",
+    "08. Logistic Regression/01. Logistic Regression.md",
+    "class_notes_extracted.txt",
+    "class_notes.pdf",
+    "book.pdf",
+    "08. Logistic Regression/04. Loss Function.md",
+    "08. Logistic Regression/05. Optimization Techniques.md",
+    "06. Advanced Regression/02. Polynomial Regression.md",
     "03. Linear Regression Basics/05. Best Line Math.md",
     "03. Linear Regression Basics/04. Best Line Metrics.md",
     "05. Gradient Descent/05. Stochastic Gradient Descent.md",
@@ -208,9 +210,6 @@
     "04. Loss Functions (Lect 10-12)/04. Mean Absolute Error.md",
     "04. Loss Functions (Lect 10-12)/03. Root Mean Squared Error.md",
     "04. Loss Functions (Lect 10-12)/02. Mean Squared Error.md",
-    "algorithms/3. Model Paramters.md",
-    "05. Gradient Descent (Lect 13-14)/03. Gradient Descent Introduction.md",
-    "05. Gradient Descent (Lect 13-14)/01. Model Parameters.md",
     "99. Additional Topics",
     "18. Advanced Algorithms (Lect 56-60)",
     "17. Clustering (Lect 55-56)",
@@ -218,9 +217,6 @@
     "15. Dimensionality Reduction (Lect 46-50)",
     "14. Data Preprocessing (Lect 42-45)",
     "13. Imbalanced Datasets (Lect 39-41)",
-    "12. Sklearn Practice (Lect 37-38)",
-    "11. K-Nearest Neighbors (Lect 31-36)",
-    "10. Model Validation (Lect 27-30)",
     "images/Pasted image 20260127170249.png",
     "images/Pasted image 20260127170336.png"
   ]
