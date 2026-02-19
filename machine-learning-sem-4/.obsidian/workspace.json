@@ -11,10 +11,14 @@
             "id": "033f75ec52d0418c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08. Logistic Regression/01. Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01. Logistic Regression"
             }
           }
         ]
@@ -181,17 +185,17 @@
   },
   "active": "033f75ec52d0418c",
   "lastOpenFiles": [
+    "08. Logistic Regression/04. Loss Function.md",
+    "08. Logistic Regression/03. Sigmoid Function.md",
+    "08. Logistic Regression/02. Step Function.md",
+    "08. Logistic Regression/05. Optimization Techniques.md",
+    "08. Logistic Regression/01. Logistic Regression.md",
     "06. Advanced Regression/01. Multiple Linear Regression.md",
     "03. Linear Regression Basics/02. Simple Linear Regression.md",
     "00. Index.md",
-    "08. Logistic Regression/03. Sigmoid Function.md",
-    "08. Logistic Regression/02. Step Function.md",
-    "08. Logistic Regression/01. Logistic Regression.md",
     "class_notes_extracted.txt",
     "class_notes.pdf",
     "book.pdf",
-    "08. Logistic Regression/04. Loss Function.md",
-    "08. Logistic Regression/05. Optimization Techniques.md",
     "06. Advanced Regression/02. Polynomial Regression.md",
     "03. Linear Regression Basics/05. Best Line Math.md",
     "03. Linear Regression Basics/04. Best Line Metrics.md",
