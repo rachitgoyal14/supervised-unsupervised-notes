@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08. Logistic Regression/04. Loss Function.md",
+                "file": "08. Logistic Regression/03. Sigmoid Function.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. Loss Function"
+              "title": "03. Sigmoid Function"
+            }
+          },
+          {
+            "id": "351f46ce751c5912",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "033f75ec52d0418c",
+  "active": "351f46ce751c5912",
   "lastOpenFiles": [
-    "08. Logistic Regression/03. Sigmoid Function.md",
-    "08. Logistic Regression/01. Logistic Regression.md",
     "08. Logistic Regression/02. Step Function.md",
     "08. Logistic Regression/04. Loss Function.md",
+    "08. Logistic Regression/03. Sigmoid Function.md",
+    "08. Logistic Regression/01. Logistic Regression.md",
     "08. Logistic Regression/05. Optimization Techniques.md",
     "06. Advanced Regression/01. Multiple Linear Regression.md",
     "03. Linear Regression Basics/02. Simple Linear Regression.md",
